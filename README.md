@@ -1,11 +1,9 @@
-# Princeton University COS 461: Computer Networks
+# Universidade da Amazônia GRA-PLE-0279: Redes de Computadores
 
-**NOTE**: We advise against starting early on assignments in the repository
-that haven't been officially released as these are still subject to change.
+**NOTE**: Não recomendamos começar cedo demais as tarefas no repositório que ainda não foram lançadas oficialmente, pois elas ainda estão sujeitas a alterações.
 
-* [Programming Assignment 1 (Virtual Machine Setup, Sockets)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)
-* [Programming Assignment 2 (TCP Congestion Control and Bufferbloat)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment2)
-* [Programming Assignment 3 (Passive Network Measurement)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment3)
-* [Programming Assignment 4 (Portscan)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment4)
-* [Programming Assignment 5 (HTTP Proxy)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment5)
-<!-- * [Programming Assignment 6 (HTTP Proxy)](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment6) -->
+* [Programming Assignment 1 (Virtual Machine Setup, Sockets)](https://github.com/alanveloso/GRA-PLE-0279-RC/tree/master/assignments/assignment1)
+* [Programming Assignment 2 (TCP Congestion Control and Bufferbloat)](https://github.com/alanveloso/GRA-PLE-0279-RC/tree/master/assignments/assignment2)
+* [Programming Assignment 3 (Passive Network Measurement)](https://github.com/alanveloso/GRA-PLE-0279-RC/tree/master/assignments/assignment3)
+* [Programming Assignment 4 (Portscan)](https://github.com/alanveloso/GRA-PLE-0279-RC/tree/master/assignments/assignment4)
+* [Programming Assignment 5 (HTTP Proxy)](https://github.com/alanveloso/GRA-PLE-0279-RC/tree/master/assignments/assignment5)
